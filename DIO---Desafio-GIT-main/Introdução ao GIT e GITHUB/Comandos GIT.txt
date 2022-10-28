@@ -1,0 +1,35 @@
+GIT INIT 
+Esse comando cria um repositório vazio ou transforma uma pasta que você já tem, e que não está com controle de versão, em um repositório.
+
+GIT CLONE 
+O Git clone é um comando para baixar o código-fonte existente de um repositório remoto (como o Github, por exemplo).
+
+GIT BRANCH
+Pode-se usar o comando git branch para criar, listar e excluir branches.
+
+GIT CHECKOUT
+usamos o git checkout principalmente para mudar de um branch para outro. Também podemos usá-lo para verificar arquivos e commits
+
+GIT STATUS
+O comando status do Git fornece algumas informações sobre a branch em que você estiver no momento, como seu nome, se ela está atualizada em relação à master e quais arquivos foram alterados.
+
+GIT ADD 
+Precisamos usar o comando git add para incluir as alterações de um arquivo em nosso próximo commit.
+
+GIT COMMIT 
+Este comando é como definir um ponto de verificação no processo de desenvolvimento, para o qual você pode voltar mais tarde, se necessário.
+
+GIT PUSH 
+ O comando git push envia e salva suas confirmações no repositório remoto.
+
+GIT PULL 
+O comando git pull é usado para obter atualizações do repositório remoto. O comando de pull depende do referencial de onde ele foi feito, ou seja, um git pull feito da sua máquina vai puxar informações do repositório original para ela.
+
+GIT REVERT 
+Uma maneira segura de desfazer os commits é usando git revert.
+
+GIT MERGE 
+Quando você conclui o desenvolvimento em sua branch e tudo funciona bem, sem conflitos, a etapa final é mesclar as branches, isso é feito com o comando git merge.
+
+
+
